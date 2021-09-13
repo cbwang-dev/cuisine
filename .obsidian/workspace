@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "770e82b47f64838c",
+    "type": "split",
+    "children": [
+      {
+        "id": "af243852f5d00332",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "油温.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c8c1faea33e20f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "63708d8062b27771",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c0c6d8940e4e215",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b01bc704f2fe3c0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.01218795776367
+  },
+  "right": {
+    "id": "f1772ee0693ef042",
+    "type": "split",
+    "children": [
+      {
+        "id": "54f9240f1cf8d4f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ca5e9b30d0f1bea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "油温.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4248665f454281b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "油温.md"
+              }
+            }
+          },
+          {
+            "id": "2fc027b34ca893db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "油温.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "044e4819fca0074d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "af243852f5d00332",
+  "lastOpenFiles": [
+    "油温.md",
+    "土豆烧牛肉.md",
+    "梅菜扣肉.md",
+    "泡姜.md",
+    "蒜蓉酱 (Minced Garlic Sauce).md",
+    "Untitled.md",
+    "2021-04-23.md",
+    "刀口辣椒.md",
+    "大盘鸡.md",
+    "滑锅.md"
+  ]
+}

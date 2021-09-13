@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "emacsyKeys": false,
+  "newLinkFormat": "relative",
+  "readableLineLength": false,
+  "enabledPlugins": [],
+  "promptDelete": false
+}
